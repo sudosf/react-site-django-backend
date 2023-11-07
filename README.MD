@@ -7,6 +7,9 @@ To set up python environment, open terminal and run the following commands
 - `python -m pip install django`
 - `django-admin startproject <project_name> .`
 
+To activate python environment run:
+## `. .venv/bin/activate`
+
 In the project directory, to run the service:
 
-### `python3 manage.py runserver`
+## `python3 manage.py runserver`
